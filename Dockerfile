@@ -1,5 +1,5 @@
 FROM debian:stretch
-MAINTAINER Adrian Dvergsdal [atmoz.net]
+MAINTAINER OneHost Cloud [info@onehostcloud.hosting]
 
 # Steps done in one RUN layer:
 # - Install packages
